@@ -1,0 +1,2 @@
+# ngcoreset
+angular component library
